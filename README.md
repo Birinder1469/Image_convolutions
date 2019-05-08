@@ -1,2 +1,3 @@
-# Image_convolutions
-Experimenting convolutions on images 
+# Image convolutions
+
+Experimenting convolutions on Images
